@@ -1,3 +1,5 @@
+== About
+
 Enjoy the splendor of textmate bundles and sass
 
 == Installation
@@ -8,7 +10,7 @@ Go to your Textmate bundles directory
 
 If that directory wasn't found, you'll need to create it
 
-  git clone git://github.com/seaofclouds/sass-textmate-bundle.git "Ruby Saas.tmbundle"
+  git clone git://github.com/seaofclouds/sass-textmate-bundle.git "SASS.tmbundle"
 
 This way you'll be able to run the update script
 

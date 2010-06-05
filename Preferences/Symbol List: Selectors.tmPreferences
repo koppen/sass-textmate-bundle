@@ -5,7 +5,8 @@
 	<key>name</key>
 	<string>Symbol List: Selectors</string>
 	<key>scope</key>
-	<string>keyword.control.untitled</string>
+	<string>keyword.control.untitled, entity.other.attribute-name.class.sass, entity.other.attribute-name.id.sass
+</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
